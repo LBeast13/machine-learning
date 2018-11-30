@@ -1,7 +1,7 @@
 # machine-learning
 
 <h1>Introduction</h1>
-You can find in this repositery some Machine Learning Algorithm developped in Python.
+You can find in this repositery some Machine Learning Algorithm developped in Python related with Professor Yaser Abu-Mostafa avaible at <href a=https://work.caltech.edu/telecourse.html/>.
 
 <h1>The Perceptron Learning Algorithm (PLA)</h1>
 
